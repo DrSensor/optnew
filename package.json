@@ -1,0 +1,23 @@
+{
+  "name": "optnew",
+  "version": "1.0.0",
+  "description": "Make `new` keyword optional when instantiate class. Just like in Dart 😉",
+  "typings": "index.d.ts",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrSensor/optnew.git"
+  },
+  "keywords": [
+    "decorater",
+    "dart-like",
+    "class",
+    "scope-safe"
+  ],
+  "author": "Fahmi Akbar Wildana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrSensor/optnew/issues"
+  },
+  "homepage": "https://github.com/DrSensor/optnew#readme"
+}
